@@ -2,3 +2,8 @@
 	path = robertogracias/odoosv
 	url = git@github.com:robertogracias/odoosv.git
 	branch = 12.0
+
+[submodule "robertogracias/pricelist"]
+	path = robertogracias/pricelist
+	url = git@github.com:robertogracias/pricelist.git
+	branch = master
